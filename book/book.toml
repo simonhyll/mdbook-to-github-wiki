@@ -1,0 +1,6 @@
+[book]
+authors = ["Simon Hyll"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Mdbook To Github Wiki"
