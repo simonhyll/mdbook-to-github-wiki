@@ -3,7 +3,7 @@ description = "Turns an mdbook book into a github wiki"
 edition = "2021"
 license-file = "LICENSE"
 name = "mdbook-to-github-wiki"
-version = "0.1.1"
+version = "0.1.2"
 
 [dependencies]
 walkdir = "2.3"
